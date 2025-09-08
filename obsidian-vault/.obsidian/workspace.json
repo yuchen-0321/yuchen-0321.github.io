@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-永久筆記/開始使用知識庫.md",
+                "file": "知識庫操作指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "開始使用知識庫"
+              "title": "知識庫操作指南"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-永久筆記/開始使用知識庫.md",
+                "file": "知識庫操作指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "開始使用知識庫 的反向連結"
+              "title": "知識庫操作指南 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-永久筆記/開始使用知識庫.md",
+                "file": "知識庫操作指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "開始使用知識庫 的對外連結"
+              "title": "知識庫操作指南 的對外連結"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-永久筆記/開始使用知識庫.md",
+                "file": "知識庫操作指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "開始使用知識庫 的大綱"
+              "title": "知識庫操作指南 的大綱"
             }
           }
         ]
@@ -171,6 +171,7 @@
   "active": "9d86a882981ae8e5",
   "lastOpenFiles": [
     "02-永久筆記/開始使用知識庫.md",
+    "知識庫操作指南.md",
     "99-附件/templates/文章模板.md",
     "99-附件/templates"
   ]
