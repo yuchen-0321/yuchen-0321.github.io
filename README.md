@@ -1,20 +1,10 @@
 # Personal Knowledge Base
 
-🌐 **Live Site**: https://yuchen-0321.github.io
+**Live Site**: https://yuchen-0321.github.io
 
 A personal knowledge management system that seamlessly integrates Obsidian with Hugo static site generator, automatically publishing your notes to a beautiful website.
 
-## ✨ Features
-
-- **📝 Obsidian Integration**: Write and organize notes in Obsidian
-- **🚀 Auto Publishing**: Automatic sync from Obsidian to Hugo website
-- **🎨 Beautiful Design**: Clean and responsive web interface
-- **⚡ Fast Deployment**: GitHub Actions powered continuous deployment
-- **🔍 Full-text Search**: Built-in search functionality
-- **🏷️ Smart Organization**: Tags and categories support
-- **📱 Mobile Friendly**: Responsive design for all devices
-
-## 🏗️ Architecture
+## Architecture
 
 ```
 my-knowledge-base/
@@ -29,7 +19,7 @@ my-knowledge-base/
 └── publish.sh               # Quick publish script
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -63,7 +53,7 @@ my-knowledge-base/
    source ~/.zshrc
    ```
 
-## 📖 Usage
+## Usage
 
 ### Writing Notes
 
@@ -111,7 +101,7 @@ git push
 # Visit http://localhost:1313
 ```
 
-## 🛠️ Configuration
+## Configuration
 
 ### Website Settings
 
@@ -133,7 +123,7 @@ baseURL: "https://yourusername.github.io"
 
 2. Set up templates in `99-attachments/templates/`
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -162,7 +152,7 @@ git push
 brew upgrade hugo  # macOS
 ```
 
-## 📂 File Organization
+## File Organization
 
 ### Note Categories
 
@@ -178,28 +168,27 @@ brew upgrade hugo  # macOS
 2. **Weekly**: Organize tags and categories
 3. **Monthly**: Update Hugo theme and settings
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Obsidian](https://obsidian.md/) for the amazing note-taking experience
 - [Hugo](https://gohugo.io/) for the fast static site generator
 - [GitHub Pages](https://pages.github.com/) for free hosting
 
-## 📞 Support
+## Support
 
 - Check the [Issues](https://github.com/yuchen-0321/yuchen-0321.github.io/issues) page
 - Review the [操作指南](操作指南.md) for detailed instructions
-- Visit the [Wiki](https://github.com/yuchen-0321/yuchen-0321.github.io/wiki) for advanced topics
 
 ---
 
