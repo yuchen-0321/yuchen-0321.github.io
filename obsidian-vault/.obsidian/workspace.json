@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識庫操作指南.md",
+                "file": "02-永久筆記/fuck-u-code-note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知識庫操作指南"
+              "title": "fuck-u-code-note"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識庫操作指南.md",
+                "file": "02-永久筆記/fuck-u-code-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "知識庫操作指南 的反向連結"
+              "title": "fuck-u-code-note 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識庫操作指南.md",
+                "file": "02-永久筆記/fuck-u-code-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "知識庫操作指南 的對外連結"
+              "title": "fuck-u-code-note 的對外連結"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識庫操作指南.md",
+                "file": "02-永久筆記/fuck-u-code-note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "知識庫操作指南 的大綱"
+              "title": "fuck-u-code-note 的大綱"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "9d86a882981ae8e5",
   "lastOpenFiles": [
-    "02-永久筆記/fuck-u-code-note.md",
     "02-永久筆記/開始使用知識庫.md",
+    "02-永久筆記/fuck-u-code-note.md",
     "知識庫操作指南.md",
     "99-附件/templates/文章模板.md",
     "99-附件/templates"
